@@ -1,3 +1,3 @@
 # getx_nice_buttons
 
-A new Flutter project.
+[article about nice_buttons](https://medium.com/p/4f7963985362)
